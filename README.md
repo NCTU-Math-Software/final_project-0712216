@@ -1,6 +1,6 @@
 # mine sweeper
 
-download 'minesweeper.m'
+download 'minesweeper.m'  
 type'minesweeper' in command window to start the game.  
 
 left and right click to control  
