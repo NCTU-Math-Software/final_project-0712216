@@ -1,8 +1,8 @@
 # mine sweeper
 
-download 'minesweeper.m'  
-type'minesweeper' in command window to start the game.  
-
+Download 'minesweeper.m'  
+Type'minesweeper' in command window to start the game.  
+## game play
 left and right click to control  
 
 left click to open the hidden block  
